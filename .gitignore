@@ -1,0 +1,15 @@
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Office & Temporary files
+~$*.docx
+*.docx
+
+# Materi / Skrip di luar praktikum EDA & Regresi
+web_scraping.ipynb
+generate_laporan_docx.py
+generate_modul_docx.py
+PANDUAN_MATERI_MACHINE_LEARNING.md
+laporan_assets/
